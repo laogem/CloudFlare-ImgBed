@@ -120,6 +120,7 @@ You can not only find the plugins, applications, and tutorials you like here, bu
 
 # 8. License
 
+
 This project is licensed under the [MIT License](https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/LICENSE). You can use, modify, and distribute the project freely as long as the original **copyright notice** is retained in **all copies or substantial portions** of the software.
 
 This project is a secondary development based on the [Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) project.
